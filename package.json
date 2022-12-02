@@ -22,7 +22,14 @@
   "homepage": "https://github.com/comp426-2022-fall/a02-SadiyaNoor#readme",
   "dependencies": {
     "minimist": "^1.2.7",
-    "node-fetch": "^3.3.0"
+    "node-fetch": "^3.3.0",
+    "data-uri-to-buffer": "^4.0.0",
+    "formdata-polyfill": "^4.0.10",
+    "fetch-blob": "^3.2.0",
+    "moment-timezone": "^0.5.37",
+    "node-domexception": "^1.0.0",
+    "web-streams-polyfill": "^3.2.1",
+    "moment": "^2.29.4"
   }
   
 }
